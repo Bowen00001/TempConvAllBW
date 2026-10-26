@@ -2,7 +2,7 @@
 % Please edit documentation in R/temp_conversion.R
 \name{F_to_C}
 \alias{F_to_C}
-\title{Fahrenheit conversion}
+\title{Fahrenheit conversion to Celsius}
 \usage{
 F_to_C(F_temp)
 }

@@ -1,11 +1,13 @@
-Package: TempConv
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Package: TempConvAllBW
+Title: Temperature Conversion Between Fahrenheit, Celsius and Kelvin
+Version: 0.1.0
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Bowen", "Wu", , "156025868+Bowen00001@users.noreply.github.com",
+    role = c("aut", "cre"))
+Description: Converts temperatures between Fahrenheit, Celsius and
+    Kelvin using six conversion functions. Kelvin conversions use
+    an offset of 273 as specified in the assignment.
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 Config/roxygen2/version: 8.1.1
